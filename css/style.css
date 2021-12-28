@@ -156,6 +156,11 @@ li {
   margin: 0 auto;
 }
 
+.profile-img {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
 /*--------------------------------
  Works
 ---------------------------------*/
