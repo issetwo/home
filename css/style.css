@@ -154,6 +154,7 @@ li {
   max-width: 500px;
   text-align: center;
   margin: 0 auto;
+  margin-bottom: 20px;
 }
 
 .profile-img {
@@ -161,6 +162,18 @@ li {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 20px;
+}
+
+.profile-link-list {
+  display: flex;
+  justify-content: center;
+}
+
+.profile-link-img {
+  width: 30px;
+  margin-right: 2px;
+  margin-left: 2px;
+  list-style: none;
 }
 
 /*--------------------------------
