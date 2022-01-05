@@ -312,6 +312,12 @@ li {
   text-align: center;
 }
 
+.article-title-img {
+  max-width: 400px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
 .article-img {
   margin-bottom: 20px;
 }
